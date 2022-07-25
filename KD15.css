@@ -1,0 +1,25 @@
+h1{
+    Font-weight: 700 (bold)
+    Font-size: 30px
+    Font-family: Nunito Sans
+}
+h2{
+    Font-weight: 500
+    Font-size: 18px
+    Font-family: Poppins
+}
+
+p{
+    Font-weight: 400 (regular)
+    Font-size: 14px
+    Font-family: Inter
+}
+h3{
+    
+    Font-weight: 400 (regular)
+    Font-size: 14px
+    Font-family: quicksand
+}
+body{
+background-color: burlywood;
+}
